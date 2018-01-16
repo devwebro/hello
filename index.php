@@ -1,3 +1,3 @@
 <?php
 
-echo 'AWS test APP...';
+echo 'AWS test APP... v2';
